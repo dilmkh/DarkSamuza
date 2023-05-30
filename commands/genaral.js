@@ -421,16 +421,16 @@ cmd({
 
 
 ┌─(📥 *[ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ᴄᴏᴍᴍᴀɴᴅꜱ]*)
-│📥│.song
-│📥│.video
-│📥│.apk
-│📥│.docsong 
-│📥│.docvideo
-│📥│.fb
-│📥│.tiktok
-│📥│.img
-│📥│.mp4down
-│📥│.fbs
+│✰📥│.song
+│✰📥│.video
+│✰📥│.apk
+│✰📥│.docsong 
+│✰📥│.docvideo
+│✰📥│.fb
+│✰📥│.tiktok
+│✰📥│.img
+│✰📥│.mp4down
+│✰📥│.fbs
 └─────────✺
 ┌─(🔍 *[ꜱᴇᴀʀᴄʜ ᴄᴏᴍᴍᴀɴᴅꜱ]*)
 │🔍│.findvideo
